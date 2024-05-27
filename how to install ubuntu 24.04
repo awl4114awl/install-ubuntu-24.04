@@ -1,0 +1,27 @@
+in this tutorial I will walk you through the installation of ubuntu 24.04 lts in virtual box. the version we'll be installing is ubuntu 24.04 lts. 
+
+I'm going to assume that you already have virtual box installed.
+
+1. download ubuntu 24.04
+2. launch virtual box and select New. create the name, and select operating system
+3. Next, modify hardware settings
+4. allocate the storage space to 30 GB or higher
+5. review summary, select Finish
+6. after creating VM, navigate to Settings --> General --> Advanced and change 'Shared Clipboard' to Bidirectional. I like to change 'Drag'n'Drop' to Bidirectional too.
+7. now head to the sidebar and select 'Display' and select '☑ Enable 3D Aceleration'
+8. we will then go to 'Storage'. under the IDE controller click on empty, click the dvd icon and select 'Choose a disk file...'
+9. import the ubuntu  ISO
+10. once that's done, you're good to select Start. 
+11. you will be met with the GNU GRUB installer window. choose *Try or Install Ubuntu
+12. choose ur language, skip the accessibility settings that show up next, also skip keyboard settings
+13. select Install Ubuntu
+14. select interactive installation
+15. we have the option to install ubuntu with either the default selection of apps or we can choose extended for more options. we will do extended.
+16. next select both options to optimize your computer by installing recommended drivers
+17. for the installation type choose erase disk and click on next
+18. now create a user account 
+19. select your time zone 
+20. review the summary of your installation, and select Install when done.
+21. this will take a minute. sit back, and please be patient. 
+22. once it is finished installing you will be met with the option to continue testing or to restart now. go ahead and click Restart Now.
+23. you have successfully installed ubuntu 24.04

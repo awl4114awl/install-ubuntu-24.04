@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://i.imgur.com/b7V2FPv.png" height="20%" width="20%" alt="install kali"/>
+<img src="https://i.imgur.com/b7V2FPv.png" height="40%" width="40" alt="install kali"/>
 </p><h1>How to Install Ubuntu 24.04 on Windows 10/11 Using Oracle VirtualBox</h1>
 
 In this tutorial, I will show you how to download and install Ubuntu 24.04 on VirtualBox in Windows 10/11, step by step. Whether you're a beginner or an experienced user, this guide will help you set up Ubuntu on a virtual machine, allowing you to run a full Ubuntu environment without affecting your main operating system. Let's get right into it!

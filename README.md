@@ -1,19 +1,18 @@
-<p align="center">
-<img src="https://i.imgur.com/b7V2FPv.png" height="40%" width="50%" alt="install kali"/>
+<p align="left">
+<img src="https://i.imgur.com/b7V2FPv.png" height="20%" width="20%" alt="install kali"/>
 </p><h1>How to Install Ubuntu 24.04 on Windows 10/11 Using Oracle VirtualBox</h1>
 
-    In this tutorial, I will show you how to download and install Ubuntu 24.04 on VirtualBox in Windows 10/11, step by step. Whether you're a beginner or an experienced user, this guide will help you set up Ubuntu on a virtual machine, allowing you to run a full Ubuntu environment without affecting your main operating system. Let's get right into it!
+In this tutorial, I will show you how to download and install Ubuntu 24.04 on VirtualBox in Windows 10/11, step by step. Whether you're a beginner or an experienced user, this guide will help you set up Ubuntu on a virtual machine, allowing you to run a full Ubuntu environment without affecting your main operating system. Let's get right into it!
 
-    First, we'll go over the process of downloading the necessary software: Oracle VirtualBox and the Ubuntu 24.04 ISO file. Oracle VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product that is free and open-source. It allows you to create and manage virtual machines on your computer. The Ubuntu ISO file is the disk image that contains the operating system we will be installing.
+First, we'll go over the process of downloading the necessary software: Oracle VirtualBox and the Ubuntu 24.04 ISO file. Oracle VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product that is free and open-source. It allows you to create and manage virtual machines on your computer. The Ubuntu ISO file is the disk image that contains the operating system we will be installing.
 
-    Once we've downloaded the software, we'll proceed with creating a new virtual machine in VirtualBox. This involves setting up the virtual hardware (such as memory, storage, and network settings) to ensure that our virtual machine runs smoothly. We'll allocate enough memory and storage to the VM, configure the virtual disk, and set up additional settings to optimize performance.
+Once we've downloaded the software, we'll proceed with creating a new virtual machine in VirtualBox. This involves setting up the virtual hardware (such as memory, storage, and network settings) to ensure that our virtual machine runs smoothly. We'll allocate enough memory and storage to the VM, configure the virtual disk, and set up additional settings to optimize performance.
 
-    After configuring the virtual machine, we'll move on to the installation of Ubuntu 24.04. This process includes booting from the ISO file, following the installation prompts, and configuring the system settings such as language, time zone, and user account. We will cover each step in detail to ensure you have a seamless installation experience.
+After configuring the virtual machine, we'll move on to the installation of Ubuntu 24.04. This process includes booting from the ISO file, following the installation prompts, and configuring the system settings such as language, time zone, and user account. We will cover each step in detail to ensure you have a seamless installation experience.
 
-    Finally, we will go through the post-installation steps to enhance your Ubuntu experience, such as installing VirtualBox Guest Additions for better integration and performance. This includes enabling features like shared clipboard, drag and drop, and 3D acceleration, making it easier to use Ubuntu alongside your main OS.
+Finally, we will go through the post-installation steps to enhance your Ubuntu experience, such as installing VirtualBox Guest Additions for better integration and performance. This includes enabling features like shared clipboard, drag and drop, and 3D acceleration, making it easier to use Ubuntu alongside your main OS.
 
-    By the end of this tutorial, you will have a fully functional Ubuntu 24.04 virtual machine running on your Windows 10/11 system. Let's get started!
-<br />
+By the end of this tutorial, you will have a fully functional Ubuntu 24.04 virtual machine running on your Windows 10/11 system. Let's get started!
 
 <h2>Languages and Utilities Used</h2>
 

@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
 <img src="https://i.imgur.com/b7V2FPv.png" height="40%" width="40%" alt="install kali"/>
 </p><h1>How to Install Ubuntu 24.04 on Windows 10/11 using Oracle VirtualBox</h1>
 
